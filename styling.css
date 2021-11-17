@@ -1,0 +1,26 @@
+#calc-container {
+    width: 200pt;
+    height: 300pt;
+    border-style: solid;
+    border-radius: 1px;
+    border-color: blue;
+}
+#keys-container {
+    margin-top: 30%;
+}
+.numpad {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 7px;
+    width: 50pt;
+    height: 25pt;
+}
+#zero{
+    margin-left: 93px;
+    margin-right: 93px;
+}
+#screen-container{
+    font-family: monospace;
+}
+#symbols {
+    width: 70%;
+}
